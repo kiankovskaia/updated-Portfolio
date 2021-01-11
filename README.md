@@ -1,6 +1,6 @@
 Live at: https://kiankovskaia.github.io/updated-Portfolio/
 
-![demo](https://github.com/kiankovskaia/updated-Portfolio/assets/portfolio-demo.jpg?raw=true)
+![](assets/portfolio-demo.jpg)
 
 
 # Unit 08 Project 1 Homework: Professional Materials
