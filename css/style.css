@@ -1,5 +1,5 @@
 body {
-    background: #c7b39b url(images/background1.jpg);  
+    background: #c7b39b url(../images/background1.jpg);  
   }
   .container {
     z-index: 1
