@@ -5,8 +5,7 @@ body {
     z-index: 1
   }
 .box-name {
-    font-family: "Neucha", cursive;
-    background-color: #db7093;
+    font-family: "Neucha", cursive; 
     margin-right: 0rem;
   }
   * {
@@ -15,7 +14,7 @@ body {
     margin: 0;
   }
   a {
-    color: black;
+    color: #e45184;
     font-family: "arial", "times new roman";
     font-size: 18px;
   }
@@ -89,19 +88,22 @@ footer {padding:2px;
 }
 p {
     font-size:16px;
-    color:white;
+    font-family: "Times New Roman", Times, serif;
 }
 h1{color:black;
-  font-size:14px;
+  font-size:28px;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
 }
-h2{color:black;
-  font-size:24px;
+h2{color:white;
+  font-size:12px;
 }
 .col {
   padding:20px;
 }
 .navbar-light .navbar-brand {
-  color:  white;
+  color: #E7A5BE;
   font-family: "Kaushan Script", cursive;
   font-size:30px;
+  
 }
