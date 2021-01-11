@@ -1,4 +1,5 @@
 Live at: https://kiankovskaia.github.io/updated-Portfolio/
+GitHub: https://github.com/kiankovskaia/updated-Portfolio
 
 ![](assets/portfolio-demo.JPG)
 
